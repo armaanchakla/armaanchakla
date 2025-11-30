@@ -1,8 +1,13 @@
-<h2 align="left">>Hey 👋 This is Armaan Hossain Chaklader</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=armaanchakla&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <h2 align="center">Hey 👋 This is Armaan Hossain Chaklader</h2>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=armaanchakla&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+    </td>
+  </tr>
+</table>
 
 **Full-Stack Web Engineer | Laravel & Vue.js Specialist | DevOps Enthusiast**
 

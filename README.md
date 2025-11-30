@@ -7,9 +7,9 @@
       <!-- Dark/Light Theme Graph -->
       <picture>
         <!-- Dark mode -->
-        <source srcset="https://streak-stats.demolab.com?user=armaanchakla&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" media="(prefers-color-scheme: dark)">
+        <source srcset="https://streak-stats.demolab.com?user=armaanchakla&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" media="(prefers-color-scheme: dark)">
         <!-- Light mode -->
-        <img src="https://streak-stats.demolab.com?user=armaanchakla&locale=en&mode=daily&theme=github-light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph">
+        <img src="https://streak-stats.demolab.com?user=armaanchakla&locale=en&mode=daily&theme=github-light&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph">
       </picture>
     </td>
   </tr>

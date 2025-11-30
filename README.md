@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋</h1>
-<h2 align="center">I am  <span>Md. Armaan Hossain Chaklader</span></h1>
+<h2 align="center">Hey 👋</h2>
+<h2 align="center">This is <h1>Armaan Hossain Chaklader</h1> </h2>
 
 ###
 
@@ -13,12 +13,16 @@
 
 With 4+ years of experience at Dotlines Technologies, I build robust backend systems, scalable APIs, cross-platform apps, and containerized development environments. I love solving complex problems with clean architecture and automation.
 
+###
+
 ### 🔧 Core Skills
 - Laravel, PHP, Vue.js, JavaScript
 - REST & SOAP APIs, MySQL
 - Docker, CI/CD pipelines
 - Node.js, Microservices
 - System Design, DevOps practices
+
+###
 
 ### 📌 Currently Exploring
 - Nestjs

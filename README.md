@@ -38,7 +38,6 @@ I love solving complex problems with clean architecture and automation.
         <li><b>System Design, DevOps practices</b></li>
       </ul>
     </td>
-    <td width="50"></td> <!-- spacing between columns -->
     <td valign="top">
       <h3>📚 Currently Exploring</h3>
       <ul>

@@ -26,29 +26,18 @@ I love solving complex problems with clean architecture and automation.
 
 ---
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <h3>🚀 Core Skills</h3>
-      <ul>
-        <li><b>Laravel, PHP, Vue.js, JavaScript</b></li>
-        <li><b>REST & SOAP APIs, MySQL</b></li>
-        <li><b>Docker, CI/CD pipelines</b></li>
-        <li><b>Node.js, Microservices</b></li>
-        <li><b>System Design, DevOps practices</b></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>📚 Currently Exploring</h3>
-      <ul>
-        <li><b>NestJS</b></li>
-        <li><b>Next.js</b></li>
-        <li><b>Advanced Docker Workflows</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 Core Skills
+- **Laravel, PHP, Vue.js, JavaScript**
+- **REST & SOAP APIs, MySQL**
+- **Docker, CI/CD pipelines**
+- **Node.js, Microservices**
+- **System Design, DevOps practices**
+
+### 📚 Currently Exploring
+- **NestJS**
+- **Next.js**
+- **Advanced Docker Workflows**
 
 ---
 
-<p align="center">Feel free to explore my repositories or reach out!</p>
+<p align="center">Feel free to explore my repositories or reach out!  😄📬</p>

@@ -22,10 +22,10 @@ I love solving complex problems with clean architecture and automation.
 ---
 
 ### 🚀 Core Skills
-- **Laravel, PHP, Vue.js, JavaScript**
+- **Laravel, PHP, React.js, Node.js, JavaScript**
 - **REST & SOAP APIs, MySQL**
 - **Docker, CI/CD pipelines**
-- **Node.js, Microservices**
+- **Redis, RabbitMQ, Microservices**
 - **System Design, DevOps practices**
 
 ### 📚 Currently Exploring

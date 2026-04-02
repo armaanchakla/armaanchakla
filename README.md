@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋 This is <b>Armaan</b></h2>
 
 <p align="center">
-  <b>Full-Stack Web Engineer</b> • Backend Specialist • DevOps Enthusiast
+  <b>Full-Stack Software Engineer</b> • Backend Specialist • DevOps Enthusiast
 </p>
 
 <p align="center">
@@ -9,9 +9,7 @@ With 5+ years of experience at <b>Software Engineering</b>, I build robust backe
 I love solving complex problems with clean architecture and automation.
 </p>
 
----
-
-## 🚀 Core Skills
+#### 🚀 Core Skills
 - Laravel, Node, Express, React, Vue
 - REST & SOAP APIs
 - MySQL, PostgreSQL, MongoDB
@@ -19,7 +17,7 @@ I love solving complex problems with clean architecture and automation.
 - Redis, RabbitMQ, Microservices
 - System Architecture, DevOps practices
 
-### 📚 Currently Exploring
+#### 📚 Currently Exploring
 - Nest
 - Next
 - Advanced Docker Workflows

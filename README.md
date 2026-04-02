@@ -25,4 +25,4 @@ I love solving complex problems with clean architecture and automation.
 
 ---
 
-<p align="center">Feel free to explore my repositories or reach out <a href="https://armaanchakla.vercel.app/">here</a> 😄📬</p>
+<p align="center">Feel free to explore my repositories or reach out <a href="https://armaanchakla.vercel.app/" target="_blank">here</a> 😄📬</p>
